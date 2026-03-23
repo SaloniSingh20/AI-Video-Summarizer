@@ -1,6 +1,6 @@
-# AI Video Summarizer
+# SUMMAR-AI
 
-AI Video Summarizer is a local-first application that generates structured summaries from uploaded videos using Whisper transcription and Ollama-based LLM summarization.
+SUMMAR-AI is a local-first application that generates structured summaries from uploaded videos using Whisper transcription and Ollama-based LLM summarization.
 
 ## What it does
 
@@ -18,11 +18,11 @@ AI Video Summarizer is a local-first application that generates structured summa
 
 ```json
 {
-	"main_idea": "...",
-	"detailed_summary": "...",
-	"key_insights": ["...", "..."],
-	"highlights": ["...", "..."],
-	"final_takeaway": "..."
+  "main_idea": "...",
+  "detailed_summary": "...",
+  "key_insights": ["...", "..."],
+  "highlights": ["...", "..."],
+  "final_takeaway": "..."
 }
 ```
 

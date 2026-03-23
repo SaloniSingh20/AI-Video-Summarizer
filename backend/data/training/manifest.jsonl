@@ -1,0 +1,3 @@
+{"video_path": "C:\\Users\\Saloni\\OneDrive\\Desktop\\AI Video Summarizer\\backend\\data\\training\\raw\\riding_001_big_buck_bunny.mp4", "label": "riding", "source_repo": "https://github.com/mediaelement/mediaelement-files"}
+{"video_path": "C:\\Users\\Saloni\\OneDrive\\Desktop\\AI Video Summarizer\\backend\\data\\training\\raw\\cooking_001_echo_hereweare.mp4", "label": "cooking", "source_repo": "https://github.com/mediaelement/mediaelement-files"}
+{"video_path": "C:\\Users\\Saloni\\OneDrive\\Desktop\\AI Video Summarizer\\backend\\data\\training\\raw\\sports_001_big_buck_bunny.webm", "label": "sports", "source_repo": "https://github.com/mediaelement/mediaelement-files"}
